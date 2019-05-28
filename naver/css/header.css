@@ -1,0 +1,15 @@
+.header{
+  width: 768px;
+  margin: 0 auto;
+  padding: 62px 0 12px;
+  width: auto;
+}
+.header>h1{
+  margin: 0 auto;
+  font-weight: 900;
+  font-size: 50px;
+  width: 250px;
+  text-align: center;
+  color: #2cb422;
+  cursor: pointer;
+}

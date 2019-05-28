@@ -1,0 +1,63 @@
+.inputArea{
+  background: white;
+  margin: 0 0 14px 0;
+  width: 100%;
+  height: 51px;
+}
+.inputGroup{
+  min-height: 85px;
+}
+.inputRow{
+  padding: 10px 35px 10px 15px;
+  width: 410px;
+  height: 31px;
+  border: 1px solid #dadada;
+}
+.inputRow>input{
+  font-size: 15px;
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+.month{
+  font-size: 15px;
+  height: 100%;
+  width: 100%;
+  background: white;
+  border: none;
+}
+.inputRow>span{
+  position: absolute;
+  top: 16px;
+  right: 13px;
+  font-size: 15px;
+}
+.submitBtn{
+  font-size: 25px;
+  color: white;
+  margin: 30px 0 14px;
+  background: #1dac00;
+  width: 100%;
+  height: 61px;
+}
+.inputGroup>p{
+  padding: 14px 0 8px;
+  font-size: 14px;
+  height: auto;
+}
+.inputGroup .inputAreaDate:nth-child(4){
+  margin: 0;
+}
+.inputAreaDate{
+  height: 51px;
+  width: 31%;
+  margin: 0 3% 0 0;
+  background: white;
+  float: left;
+}
+.inputAreaDate>.inputRow{
+  padding: 11px 14px;
+  width: 112px;
+  height: 27px;
+  border: 1px solid #dadada;
+}
